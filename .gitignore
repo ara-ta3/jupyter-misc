@@ -4,5 +4,6 @@ include
 .Python
 pip-selfcheck.json
 share
+.ipynb_checkpoints
 *.swp
 
